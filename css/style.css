@@ -454,12 +454,8 @@ body {
 
 
 #SKILLS {
-    border-bottom: 1px rgb(55, 123, 181) solid;
-    display: inline-block;
     background: url("../images/skill1.png") no-repeat center;
     height: 70vh;
-    width: 100%;
-    margin-bottom: 1%;
 }
 
 
